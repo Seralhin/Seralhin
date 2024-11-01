@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&&width=600&lines=Olá+me+chamo+Ryan+Silva.;Seja+bem+vindo.;Café+na+veia.;BackEnd.)
+
 # 💫 About Me:
 🎓 Estudante: Ciências de Dados na Haward (EAD).<br>💻 Programação: Focado em desenvolver habilidades em código.<br>🎯 Objetivo: Cursar Engenharia da Computação.<br>🤖 Interesses: Games; Matemática; Quebra Cabeça.<br>🚀 Projetos: Compartilho meu aprendizado e experiências no GitHub.<br>📚 Aprendizado Contínuo: Sempre buscando novas formas de melhorar.<br>👥 Conexões: Aberto a colaborar e trocar conhecimentos.
 
