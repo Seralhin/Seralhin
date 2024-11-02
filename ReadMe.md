@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discord.gg/https://discord.gg/Fkywh4XZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Seralhin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@seralhin) 
 <br>
 🎓 Cursos: CC50; Curso Em Vídeo.
-<br
+<br>
 💻 Programação: Focado em desenvolver habilidades em código no BackEnd.
 <br>
 🎯 Objetivo: Cursar Engenharia da Computação e ter um doutorado em matemática.
