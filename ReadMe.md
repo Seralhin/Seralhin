@@ -3,7 +3,7 @@
 # 💫 Eu sou Ryan Silva:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discord.gg/https://discord.gg/Fkywh4XZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Seralhin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@seralhin) 
 <br>
-🎓 Cursos: CC50; Curso Em Vídeo.
+🎓 Capacitação: CC50; Curso Em Vídeo.
 <br>
 💻 Programação: Focado em desenvolver habilidades em código no BackEnd.
 <br>
@@ -28,12 +28,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Seralhin&theme=noctis_minimus&hide_border=false)<br>
 ![](https://github-contributor-stats.vercel.app/api?username=Seralhin&limit=5&theme=noctis_minimus&combine_all_yearly_contributions=true)
 
-## 🏆 GitHub Trophies
+## 🏆 Troféus 
 ![](https://github-profile-trophy.vercel.app/?username=Seralhin&theme=noctis_minimus&no-frame=true&no-bg=false&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=Seralhin&icon=2&color=2)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## ☕ Me Pague Um Cafezinho
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/https://buymeacoffee.com/seralhin) 
 
   
