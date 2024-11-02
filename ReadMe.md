@@ -1,13 +1,32 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&&width=600&lines=Olá+me+chamo+Ryan+Silva.;Seja+bem+vindo.;Café+na+veia.;BackEnd.)
-# 💫 About Me:
-🎓 Estudante: Ciências de Dados na Haward (EAD).<br>💻 Programação: Focado em desenvolver habilidades em código.<br>🎯 Objetivo: Cursar Engenharia da Computação.<br>🤖 Interesses: Games; Matemática; Quebra Cabeça.<br>🚀 Projetos: Compartilho meu aprendizado e experiências no GitHub.<br>📚 Aprendizado Contínuo: Sempre buscando novas formas de melhorar.<br>👥 Conexões: Aberto a colaborar e trocar conhecimentos.
+# 💫 Quem sou:
+🎓 Cursos: CC50; Curso Em Vídeo.<br>💻 Programação: Focado em desenvolver habilidades em código no BackEnd.<br>🎯 Objetivo: Cursar Engenharia da Computação e ter um doutorado em matemática.<br>🤖 Interesses: Games; Matemática; Quebra Cabeça.<br>🚀 Projetos: Compartilho meu aprendizado e experiências no GitHub.<br>📚 Aprendizado Contínuo: Sempre buscando novas formas de melhorar.<br>👥 Conexões: Aberto a colaborar e trocar conhecimentos.
 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discord.gg/https://discord.gg/Fkywh4XZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Seralhin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@seralhin) 
 
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 💻 Tecnologias:
+<div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" height="30" alt="git logo  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" height="30" alt="github logo"  />
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Seralhin&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Seralhin&theme=noctis_minimus&hide_border=false)<br/>
