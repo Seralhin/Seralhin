@@ -36,9 +36,9 @@
 </div>
 
 # 📊 GitHub Estatísticas:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Seralhin&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=Seralhin&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Seralhin&theme=noctis_minimus&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Seralhin&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Seralhin&theme=noctis_minimus&hide_border=false)
 
 ### 🔝 Contribuições no Git
 ![](https://github-contributor-stats.vercel.app/api?username=Seralhin&limit=5&theme=noctis_minimus&combine_all_yearly_contributions=true)
