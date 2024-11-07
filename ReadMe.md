@@ -5,7 +5,7 @@
 <br>
 🎓 Capacitação: CC50; Curso Em Vídeo.
 <br>
-💻 Programação: Focado em desenvolver habilidades em código no BackEnd.
+💻 Programação: Focado em desenvolver habilidades em código Fullstack.
 <br>
 🎯 Objetivo: Cursar Engenharia da Computação e ter um doutorado em matemática.
 <br>
