@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&&width=600&lines=Seja+bem+vindo!;Desenvolvedor-BackEnd.;Café+na+veia+e+código+na+mesa.;Guanabara+me+fez+um+pequeno+gafanhoto.;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&&width=600&lines=Seja+bem+vindo!;Desenvolvedor+Fullstack.;Café+na+veia+e+código+na+mesa.;Guanabara+me+fez+um+pequeno+gafanhoto.;)
 
 # 💫 Eu sou Ryan Silva:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discord.gg/https://discord.gg/Fkywh4XZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Seralhin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@seralhin) [![Views](https://visitcount.itsvg.in/api?id=seralhin&icon=2&color=7)](https://visitcount.itsvg.in)
